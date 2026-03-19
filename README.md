@@ -1,11 +1,11 @@
 # EXPERIMENT-02 Interfacing Multiple Switches for LED Control Using MicroPython.
 
 
- ## NAME: Dhiyaneshwar
+ ## NAME: Sanjay M
 
 ## DEPARTMENT: CSE(IOT)
 
-## ROLL NO: 212222110009
+## ROLL NO: 212222110038
 
 
 
